@@ -1,4 +1,4 @@
-# airpnp-dataset
+# airbnb-dataset
 airpnp dataset
 
 The dataset contains 20,765 entries and 22 features, including:
